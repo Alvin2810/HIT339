@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3cN+L7NkIInho047b0ET2sghHeudAsK+7NvunRCQJVgOvDDau0PH3dbhA9VG+z7fUb+qu4Vun0yddacuAvzliA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\monsi\\Desktop\\HIT339\\HelloWorldMVC\\MvcMovie\\MvcMovie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monsi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\monsi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
