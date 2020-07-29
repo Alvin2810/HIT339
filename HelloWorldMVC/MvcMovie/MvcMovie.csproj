@@ -5,6 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20200729022311_Rating.cs" />
+    <Compile Remove="Migrations\20200729022311_Rating.Designer.cs" />
+    <Compile Remove="Migrations\20200729022818_Rating.cs" />
+    <Compile Remove="Migrations\20200729022818_Rating.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.6" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.6" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.6">
