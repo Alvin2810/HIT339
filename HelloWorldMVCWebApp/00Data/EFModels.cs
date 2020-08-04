@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HelloWorldMVCWebApp._00Data
 {
-    public class EFModels
+    public class Movie
     {
         public int MovieId { get; set;}
         [StringLength(50)]

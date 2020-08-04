@@ -10,7 +10,7 @@ namespace HelloWorldMVCWebApp._00Data
     {
         public MovieDBContext(DbContextOptions<MovieDBContext> options) : base(options)
         {
-
         }
+        public DbSet<Movie> Movies { get; set; }
     }
 }
